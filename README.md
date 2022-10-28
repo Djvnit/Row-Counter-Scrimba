@@ -10,4 +10,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [The Frontend Career Path](https://scrimba.com/learn/frontend)
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
+
+Checkout the deployed App here https://grand-gecko-e3a726.netlify.app/
+
 Happy Coding!
